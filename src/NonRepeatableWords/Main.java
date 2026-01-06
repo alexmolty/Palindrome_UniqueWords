@@ -1,10 +1,7 @@
 package NonRepeatableWords;
 
-import java.util.Arrays;
-import java.util.stream.IntStream;
-
 public class Main {
-    static void main() {
+    public static void main(String args[]) {
         String[]examples = {
                 "hello world",
                 "Hello hello world World",
